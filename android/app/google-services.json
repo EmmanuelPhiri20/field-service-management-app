@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292555539494",
+    "project_id": "fsm-app-92d6f",
+    "storage_bucket": "fsm-app-92d6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292555539494:android:55347e9a875d05755052e7",
+        "android_client_info": {
+          "package_name": "com.example.fsm_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkm6BJnt2c8NE9uBIU42sRGq-2p1WQDD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
