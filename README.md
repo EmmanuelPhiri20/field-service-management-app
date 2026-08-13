@@ -1,7 +1,7 @@
 # fsm_app
 This project is a Field Service Management App
 
-## Features
+## Features;
 1. Role Based Access Control (RBAC) system.
 2. Administrator - Manages registered users of the system. In this case, the users include Managers and Technicians. The admin can Add, Edit or delete a user from the Field Management App.
 3. Manager - Assigns Technicians jobs or tasks offered by various clients out there. For example, the Manager might receive a client looking for a Electrician to perform electrical installation or diagnosis, the manager assigns jobs or tasks to electricians by sending them service requests.
@@ -17,9 +17,9 @@ This project is a Field Service Management App
 4. Cloud Firestore
 5. Firebase storage
 
-## Configuration steps
+## Configuration & Installation steps;
 1. Ensure Android Studio or any other Integrated Development Environment (IDE) supporting Flutter + Dart
 3. Download and Install Flutter SDK, Android SDK packages, Gradle dependencies, and set environmental variables for flutter and Dart to function.
-4. Clone project
+4. Clone project and then, open terminal or pubspec.yaml, Run Pub get or type "flutter pub get" to install dependencies. 
 5. Run or Build on Either Android Emulator or Physical device. 
 6. Test
