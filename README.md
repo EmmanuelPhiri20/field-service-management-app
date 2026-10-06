@@ -315,7 +315,7 @@ Detailed setup and configuration instructions are available in the
 Basic Flutter setup:
 
 ```bash
-git clone https://github.com/EmmanuelPhiri20/fsm_app.git
+git clone https://github.com/EmmanuelPhiri20/field-service-management-app.git
 cd fsm_app
 flutter pub get
 flutter run
